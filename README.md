@@ -6,8 +6,9 @@ Visualization of real-time public geo-tagged Instagram photos via a heat map
 Oculus enables users to discover interesting things around them by looking at pictures taken from different places in real time. The pictures are retrieved from the Instagram API and are displayed on a map according to their geo-tag. The user has the option to click on a specific picture and get more information regarding the picture. Finally, a heatmap visualization displays on overview of the volume of the latest pictures according to the location on the map.
 
 ## Screenshots
-![image](/images/1.png)  ![image](/images/2.png)  ![image](/images/3.png)  ![image](/images/4.png)
-![image](/images/5.png)  ![image](/images/6.png)  ![image](/images/7.png)  ![image](/images/8.png)
+![image](/images/1.png)  ![image](/images/2.png)  ![image](/images/3.png)
+![image](/images/4.png)  ![image](/images/6.png)  ![image](/images/7.png)
+![image](/images/8.png)  ![image](/images/9.png)  ![image](/images/10.png)
 
 ## API's used
 
