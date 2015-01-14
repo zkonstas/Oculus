@@ -1,8 +1,7 @@
 # Oculus
 Visualization of real-time public geo-tagged Instagram photos via a heat map
 
-## Overview
-
+## Description
 Oculus enables users to discover interesting things around them by looking at pictures taken from different places in real time. The pictures are retrieved from the Instagram API and are displayed on a map according to their geo-tag. The user has the option to click on a specific picture and get more information regarding the picture. Finally, a heatmap visualization displays on overview of the volume of the latest pictures according to the location on the map.
 
 ## Screenshots
@@ -10,7 +9,7 @@ Oculus enables users to discover interesting things around them by looking at pi
 ![image](/images/4.png)  ![image](/images/6.png)  ![image](/images/7.png)
 ![image](/images/8.png)  ![image](/images/9.png)  ![image](/images/10.png)
 
-## API's used
+## APIs used
 
 #### [Google Places API](https://developers.google.com/places/)
 Used for information about place search in the first view of the application. It is also used to get the suggested auto-completion results while search.
@@ -21,7 +20,7 @@ Retrieves the area, city and state from a set of coordinates. It is used for dis
 #### [Instagram Real Time Photo Updates API](http://instagram.com/developer/realtime/)
 Retrieves the latest location tagged photo’s taken from people with public profiles on Instagram.
 
-## API's used
+## Frameworks used
 
 #### [Date Tools](https://github.com/MatthewYork/DateTools)
 Streamlines date and time handling. Used for calculating and displaying the time that has passed since a photo was taken.
@@ -45,3 +44,8 @@ Facebook authentication SDK. Used for enabling a user to login to the applicatio
 Map Kit overlay for visualizing location based data sets. Used for visualizing 
 
 ## Additional Details
+This application was developed as the final group project for the class COMS6998 in the Spring 2014 at Columbia University. The following members also contributed to the project:
+
+Dimitris Paidarakis
+Ajay Siva
+Prateek Sinha
