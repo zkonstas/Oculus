@@ -7,7 +7,7 @@ Oculus enables users to discover interesting things around them by looking at pi
 
 ## Screenshots
 ![launch screen]
-(/images/1.png image title)
+(/images/1.png image "title")
 
 
 ## API's used
