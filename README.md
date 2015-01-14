@@ -46,6 +46,6 @@ Map Kit overlay for visualizing location based data sets. Used for visualizing
 ## Additional Details
 This application was developed as the final group project for the class COMS6998 in the Spring 2014 at Columbia University. The following members also contributed to the project:
 
-Dimitris Paidarakis
-Ajay Siva
-Prateek Sinha
+-Dimitris Paidarakis
+-Ajay Siva
+-Prateek Sinha
