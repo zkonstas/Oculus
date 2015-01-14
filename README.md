@@ -11,36 +11,36 @@ Oculus enables users to discover interesting things around them by looking at pi
 
 ## API's used
 
-### [Google Places API](https://developers.google.com/places/)
+#### [Google Places API](https://developers.google.com/places/)
 Used for information about place search in the first view of the application. It is also used to get the suggested auto-completion results while search.
 
-### [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/)
+#### [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/)
 Retrieves the area, city and state from a set of coordinates. It is used for displaying the location a photo was taken.
 
-### [Instagram Real Time Photo Updates API](http://instagram.com/developer/realtime/)
+#### [Instagram Real Time Photo Updates API](http://instagram.com/developer/realtime/)
 Retrieves the latest location tagged photo’s taken from people with public profiles on Instagram.
 
 ## API's used
 
-### [Date Tools](https://github.com/MatthewYork/DateTools)
+#### [Date Tools](https://github.com/MatthewYork/DateTools)
 Streamlines date and time handling. Used for calculating and displaying the time that has passed since a photo was taken.
 
-### [SD Web Image](https://github.com/rs/SDWebImage)
+#### [SD Web Image](https://github.com/rs/SDWebImage)
 Asynchronous image downloader with cache support. Used for downloading images in image view throughout the application.
 
-### [MB Progress HUD](https://github.com/matej/MBProgressHUD)
+#### [MB Progress HUD](https://github.com/matej/MBProgressHUD)
 iOS activity indicator. Used for displaying a “loading” overlay when the list/grid view is pulled down for fetching new images.
 
-### [Reachability](https://github.com/tonymillion/Reachability)
+#### [Reachability](https://github.com/tonymillion/Reachability)
 Internet connection verification tool. Used for checking if a valid internet connection exists before making any web API calls. 
 
-### [Parse Database](https://parse.com/docs/ios_guide#top/iOS)
+#### [Parse Database](https://parse.com/docs/ios_guide#top/iOS)
 Database SDK for iOS. Used for saving user information in the cloud. 
 
-### [Facebook Login](https://developers.facebook.com/docs/ios/)
+#### [Facebook Login](https://developers.facebook.com/docs/ios/)
 Facebook authentication SDK. Used for enabling a user to login to the application with his Facebook account. Used in combination with parse. 
 
-### [Heat Map](https://github.com/ryanolsonk/HeatMapDemo)
+#### [Heat Map](https://github.com/ryanolsonk/HeatMapDemo)
 Map Kit overlay for visualizing location based data sets. Used for visualizing 
 
 
